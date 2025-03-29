@@ -15,9 +15,9 @@ avatar: images/pf.png
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links: images/pf.png
+footer-links:
   dribbble:
-  email:
+  email: 23minjjj@ewha.ac.kr
   facebook:
   flickr:
   github: jxxxxxn
